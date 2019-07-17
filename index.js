@@ -26,4 +26,4 @@ for (var a=1;a<=100;a++)
 console.log(str);
 // Write Javascript code!
 const appDiv = document.getElementById('app');
-appDiv.innerHTML = `<h1>JS “FizzBuzz”</h1>`;
+appDiv.innerHTML = `<h1>JS “FizzBuzz” solution</h1>`;
