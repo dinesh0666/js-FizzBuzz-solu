@@ -11,11 +11,11 @@ for (var a=1;a<=100;a++)
     y = a%5 ==0;
     if(x)
     {
-        str+="fizz"
+        str+="fizz";
     }
     if (y)
     {
-        str+="buzz"
+        str+="buzz";
     }
     if (!(x||y))
     {
